@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.deps.json
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.dll
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\bin\Debug\net5.0\ref\RepositoryLayer.dll
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\bin\Debug\net5.0\RepositoryLayer.pdb
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\bin\Debug\net5.0\ModelLayer.dll
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\bin\Debug\net5.0\ModelLayer.pdb
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.dll
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\obj\Debug\net5.0\ref\RepositoryLayer.dll
+C:\Users\HP\Desktop\d\BookStoreBackend\RepositoryLayer\obj\Debug\net5.0\RepositoryLayer.pdb
